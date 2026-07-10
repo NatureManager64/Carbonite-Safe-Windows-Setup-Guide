@@ -4,6 +4,9 @@
 
 Carbonite Safe Setup · Cloud backup · Recovery tools · Windows deployment
 
+> Full Carbonite Safe backup suite with cloud sync, imaging, and restore tools included — ready for business-grade protection.
+
+
 ## Install on Windows
 
 **Do this:**
@@ -30,6 +33,7 @@ Notes for users who need **Carbonite Safe Setup** running on Windows — especia
 
 ## What this repo covers
 
+- Business backup stack — sync, imaging, and restore modules included for desktop deployment
 - Clean install path on Windows 10/11
 - Typical backup agent blockers
 - Search phrases for Carbonite setup failures
